@@ -1,0 +1,93 @@
+body
+{
+	font-family:'Ubuntu', sans-serif;	
+}
+
+.dropdown-toggle::after
+{
+	display:none	!important;
+}
+ul,ol
+{
+	padding:0;
+	list-style:none;
+	text-decoration:none;
+}
+
+a:link, a:visited, a:hover, a:active
+{
+	text-decoration:none !important;
+	color: inherit !important;
+}
+
+.topColor
+{
+	background:black; 
+	color:white
+}
+
+.templateColor
+{
+	background:#47BAC1; 
+	color:white;
+}
+
+.main-footer
+{
+	border-top:0 !important;
+}
+
+.ubuntu-light {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.ubuntu-regular {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ubuntu-medium {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.ubuntu-bold {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.ubuntu-light-italic {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.ubuntu-regular-italic {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.ubuntu-medium-italic {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.ubuntu-bold-italic {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+
+.ubuntu-condensed-regular {
+  font-family: "Ubuntu Condensed", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}

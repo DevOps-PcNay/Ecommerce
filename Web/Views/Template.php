@@ -24,8 +24,10 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <title>AdminLTE 3 | Top Navigation + Sidebar</title>
 
   <!-- Google Font: Source Sans Pro -->
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
- 
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet"> 
+
 	<!-- Font Awesome Icons -->
   <link rel="stylesheet" href="<?php echo $path ?>Views/Assets/Css/Plugins/fontawesome-free/css/all.min.css">
 
@@ -34,6 +36,8 @@ scratch. This page gets rid of all links and provides the needed markup only.
 
   <!-- Theme style -->
   <link rel="stylesheet" href="<?php echo $path ?>Views/Assets/Css/Plugins/AdminLTE/adminlte.min.css">
+
+	<link rel="stylesheet" href="<?php echo $path ?>Views/Assets/Css/Template/Template.css">
 
 	
 	<!-- jQuery -->

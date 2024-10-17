@@ -1,4 +1,4 @@
-<div class="container-fluid" style="background:black; color:white">
+<div class="container-fluid topColor">
 	<div class="container">
 
 		<!-- justify-content-between = Mueve el texto al lado Izquierdo y Derecho (ya que se colocan dos parrafos)-->

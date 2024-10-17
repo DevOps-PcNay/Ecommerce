@@ -1,10 +1,4 @@
 <style>
-	a:link, a:visited, a:hover, a:active
-	{
-		text-decoration:none !important;
-		color: inherit !important;
-
-	}
 </style>
 
 <div class="container-fluid bg-dark samll">
@@ -141,8 +135,7 @@
 					<textarea id="mensajeContactenos" name="mensajeContactenos" class="form-control" placeholder="Escriba su mensaje" 		required>
 					</textarea>
 					<br>
-					<input type="submit" value= "Enviar" class="btn btn-default templateColor float-right border-0" style="background: #47BAC1; color:white">
-
+					<input type="submit" value= "Enviar" class="btn btn-default templateColor float-end  border-0">
 
 				</form>
 
@@ -156,7 +149,7 @@
 </div> <!-- <div class="container-fluid bg-dark samll"> -->
 
 <!-- Main Footer -->
-<footer class="main-footer"style="background:black; color:white">
+<footer class="main-footer topColor" >
 	<!-- To the right -->
 	<div class="container">
 		<div class="float-end">
