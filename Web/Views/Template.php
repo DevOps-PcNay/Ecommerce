@@ -34,7 +34,10 @@ scratch. This page gets rid of all links and provides the needed markup only.
 	<!-- BootStrap 5 --> 
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"> 
 
-  <!-- Theme style -->
+  <!-- JDSlider -->
+	<link rel="stylesheet" href="<?php echo $path ?>Views/Assets/Css/Plugins/jdSlider/jdSlider.css">
+	
+	<!-- Theme style -->
   <link rel="stylesheet" href="<?php echo $path ?>Views/Assets/Css/Plugins/AdminLTE/adminlte.min.css">
 
 	<link rel="stylesheet" href="<?php echo $path ?>Views/Assets/Css/Template/Template.css">
@@ -43,9 +46,13 @@ scratch. This page gets rid of all links and provides the needed markup only.
 	<!-- jQuery -->
 	<script src="<?php echo $path ?>Views/Assets/Js/Plugins/jquery/jquery.min.js"></script>
 
+	
 	<!-- Latest compiled JavaScript --> 
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script> 
  
+	<!-- JDSlider -->
+	<script src="<?php echo $path ?>Views/Assets/Js/Plugins/jdSlider/jdSlider.js"></script>
+
 </head>
 
 <body class="hold-transition sidebar-collapse layout-top-nav">
@@ -58,10 +65,8 @@ scratch. This page gets rid of all links and provides the needed markup only.
 		include "Pages/Home/Home.php";
 		include "Modules/Footer.php"; 
 	?>
-		 
-
-
-		
+	 
+	
 	</div>
 	<!-- ./wrapper -->
 

@@ -1,7 +1,9 @@
   <!-- Navbar -->
 	<!-- Para que desaparezca la punta flecha hacia abajo en el Boton Categorias, se termina de cargar el DOM y lo quitara.--> 
 
-<div class="container" py-2 py-lg-4>
+
+	<!-- Para el espacio de la seccion de logo  y el slider es aqui donde se modifica.--> 
+<div class="container py-2 py-lg-3">
 
 	<div class="row"> 
 	
