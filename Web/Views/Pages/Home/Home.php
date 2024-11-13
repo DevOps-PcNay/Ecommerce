@@ -6,8 +6,8 @@
 		include "Modules/Slide.php"; 
 		include "Modules/Banner.php"; 		
 		include "Modules/Free.php"; 
-		include "Modules/Most-Seen.php";
-		include "Modules/Most-Sold.php";		
+		include "Modules/Most-seen.php";
+		include "Modules/Most-sold.php";		
 		include "Modules/Visits.php"; 	
 		?>
 

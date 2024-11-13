@@ -26,10 +26,11 @@ a:link, a:visited, a:hover, a:active
 	color:white
 }
 
-.templateColor, .templateColor:hover
+.templateColor, .templateColor:hover, a.templateColor
 {
-	background:#47BAC1; 
-	color:white;
+	/* Para cuando se pase el puntero del raton en el botom "VER MAS" cambie el texto a blanco*/ 
+	background:#47BAC1 !important;
+	color:white !important;
 }
 
 .main-footer

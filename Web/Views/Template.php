@@ -42,6 +42,9 @@ scratch. This page gets rid of all links and provides the needed markup only.
 
 	<link rel="stylesheet" href="<?php echo $path ?>Views/Assets/Css/Template/Template.css">
 
+	<!-- Archivo de CSS de Productos. -->
+	<link rel="stylesheet" href="<?php echo $path ?>Views/Assets/Css/Products/Products.css">
+
 	
 	<!-- jQuery -->
 	<script src="<?php echo $path ?>Views/Assets/Js/Plugins/jquery/jquery.min.js"></script>

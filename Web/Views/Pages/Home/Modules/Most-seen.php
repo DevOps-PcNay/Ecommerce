@@ -23,7 +23,7 @@
 <div class="container-fluid bg-white">
 	<div class="container">
 		<div class="clearfix pt-3 pb-0 px-2">
-			<h3 class="float-start text-uppercase">Articulos Mas Vendidos</h3>
+			<h3 class="float-start text-uppercase">Articulos Mas Vistos</h3>
 				<span class="float-end">
 						<a href="#" class="btn btn-default templateColor">
 							<small>VER MAS <i class="fas fa-chevron-right"></i></small>
