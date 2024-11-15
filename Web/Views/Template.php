@@ -56,6 +56,9 @@ scratch. This page gets rid of all links and provides the needed markup only.
 	<!-- JDSlider -->
 	<script src="<?php echo $path ?>Views/Assets/Js/Plugins/jdSlider/jdSlider.js"></script>
 
+<!-- Products con su archivo de "js"-->
+	<script src="<?php echo $path ?>Views/Assets/Js/Products/Products.js"></script>
+
 </head>
 
 <body class="hold-transition sidebar-collapse layout-top-nav">
