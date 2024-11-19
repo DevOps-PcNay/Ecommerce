@@ -36,7 +36,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
 
   <!-- JDSlider -->
 	<link rel="stylesheet" href="<?php echo $path ?>Views/Assets/Css/Plugins/jdSlider/jdSlider.css">
-	
+
 	<!-- Theme style -->
   <link rel="stylesheet" href="<?php echo $path ?>Views/Assets/Css/Plugins/AdminLTE/adminlte.min.css">
 
@@ -55,6 +55,9 @@ scratch. This page gets rid of all links and provides the needed markup only.
  
 	<!-- JDSlider -->
 	<script src="<?php echo $path ?>Views/Assets/Js/Plugins/jdSlider/jdSlider.js"></script>
+
+	<!-- Knobr, para deplgar los graficos forma de Dona, representa lo paises  -->
+	<script src="<?php echo $path ?>Views/Assets/Js/Plugins/Knob/Knob.js"></script>
 
 <!-- Products con su archivo de "js"-->
 	<script src="<?php echo $path ?>Views/Assets/Js/Products/Products.js"></script>
